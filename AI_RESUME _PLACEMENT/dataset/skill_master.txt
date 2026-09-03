@@ -1,0 +1,97 @@
+Python
+Java
+C
+C++
+SQL
+HTML
+CSS
+JavaScript
+Bootstrap
+React
+Angular
+NodeJS
+ExpressJS
+PHP
+Django
+Flask
+MongoDB
+MySQL
+Oracle
+SQLite
+Git
+GitHub
+Linux
+Windows
+REST API
+JSON
+XML
+Data Structures
+Algorithms
+OOPS
+DBMS
+Operating Systems
+Computer Networks
+Software Engineering
+Machine Learning
+Deep Learning
+Artificial Intelligence
+Natural Language Processing
+Computer Vision
+Generative AI
+Prompt Engineering
+Large Language Models
+TensorFlow
+PyTorch
+Keras
+Scikit Learn
+Pandas
+NumPy
+Matplotlib
+Seaborn
+OpenCV
+Power BI
+Tableau
+Excel
+Statistics
+Data Analysis
+Data Visualization
+Data Mining
+Big Data
+Hadoop
+Spark
+ETL
+AWS
+Azure
+Google Cloud
+Cloud Computing
+Docker
+Kubernetes
+DevOps
+CI/CD
+Cyber Security
+Network Security
+Ethical Hacking
+Cryptography
+IoT
+Arduino
+Embedded Systems
+Microcontrollers
+MATLAB
+Verilog
+VHDL
+AutoCAD
+SolidWorks
+CATIA
+Engineering Drawing
+Power Systems
+Control Systems
+Digital Communication
+Signal Processing
+Thermodynamics
+Heat Transfer
+Fluid Mechanics
+Manufacturing
+Quality Control
+Project Management
+Agile
+Scrum
