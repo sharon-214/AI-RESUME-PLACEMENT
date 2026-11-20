@@ -1,7 +1,7 @@
-Scikittreamlit
+Streamlit
 Pandas
 Numpy
 Scikit-learn
 Pdfplumber
-Nltk
+nltk
 Spacy
