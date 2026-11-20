@@ -1,0 +1,7 @@
+Scikittreamlit
+Pandas
+Numpy
+Scikit-learn
+Pdfplumber
+Nltk
+Spacy
